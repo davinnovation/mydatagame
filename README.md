@@ -1,8 +1,6 @@
 # Digit Recognizer
 
-https://www.kaggle.com/c/digit-recognizer
-
-
+[https://www.kaggle.com/c/digit-recognizer](https://www.kaggle.com/c/digit-recognizer)
 
 ### Score
 
@@ -15,9 +13,7 @@ https://www.kaggle.com/c/digit-recognizer
 3. VggNet : 0.98
 4. VggNet with + Kfold \(3\) : 0.99
 
-### Think
-
-역시 앙상블
+### Think + Tip
 
 
 
